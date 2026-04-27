@@ -22,7 +22,7 @@
 /* ─────────────────────────────────────────────────────
    ★ COLE AQUI A URL DO WEBHOOK DO MAKE.COM
 ─────────────────────────────────────────────────────*/
-const MAKE_WEBHOOK_URL = 'https://hook.us2.make.com/a1l472inhz95k294uh18u2prp1n2q2r5';
+const MAKE_WEBHOOK_URL = 'https://hook.us2.make.com/pcuqb43g8ibvdmwite5dd8k2alfv2lwb';
 
 /* ─────────────────────────────────────────────────────
    PRODUTOS — mapeamento de formulários
